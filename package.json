@@ -1,0 +1,21 @@
+{
+  "name": "getto-code-stat-elm",
+  "version": "0.1.0",
+  "description": "code statistics for Elm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/code-stat-elm.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/code-stat-elm/issues"
+  },
+  "homepage": "https://github.com/getto-systems/code-stat-elm#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
