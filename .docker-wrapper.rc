@@ -1,0 +1,1 @@
+DOCKER_WRAPPER_IMAGE_node(){ echo "11.12.0-stretch"; }
